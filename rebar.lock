@@ -1,0 +1,20 @@
+{"1.1.0",
+[{<<"cowboy">>,{pkg,<<"cowboy">>,<<"2.0.0">>},0},
+ {<<"cowlib">>,{pkg,<<"cowlib">>,<<"2.0.0">>},1},
+ {<<"erl_fastcgi">>,
+  {git,"git://github.com/marcelog/erl_fastcgi",
+       {ref,"79713d0c43074db704d4b37473d65f43900a0be5"}},
+  0},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.5.1">>},0},
+ {<<"poolboy">>,{pkg,<<"poolboy">>,<<"1.5.1">>},0},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.4.0">>},1}]}.
+[
+{pkg_hash,[
+ {<<"cowboy">>, <<"A3B680BCC1156C6FBCB398CC56ADC35177037012D7DC28D8F7E7926D6C243561">>},
+ {<<"cowlib">>, <<"C2977105473DFD520EC158EDB7FDA1AEB3EFA323192DD4533481DA0AE32950D4">>},
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>},
+ {<<"lager">>, <<"63897A61AF646C59BB928FEE9756CE8BDD02D5A1A2F3551D4A5E38386C2CC071">>},
+ {<<"poolboy">>, <<"6B46163901CFD0A1B43D692657ED9D7E599853B3B21B95AE5AE0A777CF9B6CA8">>},
+ {<<"ranch">>, <<"10272F95DA79340FA7E8774BA7930B901713D272905D0012B06CA6D994F8826B">>}]}
+].

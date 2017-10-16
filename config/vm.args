@@ -1,0 +1,6 @@
+-sname cowboy_fastcgi
+
+-setcookie cowboy_fastcgi_cookie
+
++K true
++A30

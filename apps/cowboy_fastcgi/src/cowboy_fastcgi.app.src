@@ -1,0 +1,19 @@
+{application, cowboy_fastcgi, [
+  {description, "Cowboy and FastCGI example"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { cowboy_fastcgi_app, []}},
+  {applications, [
+    kernel,
+    stdlib,
+    lager,
+    ranch,
+    cowboy
+  ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Marcelo Gornstein"]},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+]}.
