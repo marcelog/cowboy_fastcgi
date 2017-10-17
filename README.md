@@ -37,6 +37,7 @@ of the script.
 
 ## Related reads
 * [Call FastCGI applications from Erlang](http://marcelog.github.io/articles/erlang_fastcgi_client.html)
+* [Serve PHP applications with Erlang and Cowboy using FastCGI](http://marcelog.github.io/articles/erlang_cowboy_php_fastcgi.html)
 
 ## License
 The source code is released under Apache 2 License.
