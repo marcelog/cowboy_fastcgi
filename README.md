@@ -35,6 +35,9 @@ phpinfo();
 Head to http://localhost:8080/php-fpm/test.php and you should see the output
 of the script.
 
+## Related reads
+* [Call FastCGI applications from Erlang](http://marcelog.github.io/articles/erlang_fastcgi_client.html)
+
 ## License
 The source code is released under Apache 2 License.
 
